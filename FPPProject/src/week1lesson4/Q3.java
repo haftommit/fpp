@@ -3,6 +3,7 @@ package week1lesson4;
  * 
  * @author haftomtesfay
  *
+ *Binert Search Recursion
 index of target: 13
 index of target: 14
 index of target: 0

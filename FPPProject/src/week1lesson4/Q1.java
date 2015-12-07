@@ -2,7 +2,7 @@ package week1lesson4;
 /**
  * 
  * @author haftomtesfay
- *
+ *Sorting two strings using recursion
  abcdef
  
  */

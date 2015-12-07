@@ -2,6 +2,7 @@ package week1lesson4;
 /**
  * 
  * @author haftomtesfay
+ * Mininmum character from the string input
 a
 a
 a

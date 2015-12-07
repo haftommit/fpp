@@ -2,6 +2,7 @@ package week1lesson4;
 /**
  * 
  * @author haftomtesfay
+ * sum of integer number n using recursion
 551
 
  */

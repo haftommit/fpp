@@ -51,16 +51,13 @@ public class Television {
 		return channel;
 	}
 
-
 	public void setChannel(int channel) {
 		this.channel = channel;
 	}
 
-
 	public int getVolume() {
 		return volume;
 	}
-
 
 	public void increaseVolume()
 	{

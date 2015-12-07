@@ -1,5 +1,9 @@
 package week1lesson4;
-
+/**
+ * 
+ * @author haftomtesfay
+ * checking if a string is palindrom or not.
+ */
 class P
 {
 	int cIndex = 0;
